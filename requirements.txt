@@ -1,0 +1,13 @@
+streamlit~=1.47.1
+pandas~=2.3.1
+requests~=2.32.4
+plotly~=6.2.0
+prophet~=1.1.7
+folium~=0.20.0
+streamlit-folium
+google-api-python-client~=2.177.0
+google-auth-httplib2
+google-auth-oauthlib~=1.2.2
+
+streamlit_folium~=0.25.0
+python-dotenv~=1.1.1
